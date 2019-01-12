@@ -1,1 +1,1 @@
-api_key = "API for Google"
+api_key = "OpenWeatherMap API Key"
